@@ -1,6 +1,6 @@
 # StreaMeme Backend
 
-This is the backend for StreaMeme web service.
+This is the backend for Meme web service.
 
 ## Usage
 
